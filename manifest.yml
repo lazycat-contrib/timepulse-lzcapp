@@ -1,0 +1,14 @@
+lzc-sdk-version: 0.1
+name: TimePulse
+package: cloud.lazycat.app.timepulse
+version: 0.4.0
+description: 一个具有现代化 UI 和交互的计时器网页应用
+license: http://www.apache.org/licenses/
+homepage: https://github.com/RavelloH/TimePulse
+author: RavelloH
+application:
+  subdomain: timepulse
+  public_path:
+    - /
+  routes:
+    - /=file:///lzcapp/pkg/content/
