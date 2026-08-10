@@ -1,0 +1,16 @@
+package: cloud.lazycat.app.timepulse
+version: 0.4.0
+name: TimePulse
+description: 一个具有现代化 UI 和交互的计时器网页应用
+min_os_version: 1.5.0
+license: Apache-2.0
+homepage: https://github.com/RavelloH/TimePulse
+author: RavelloH
+
+locales:
+  zh:
+    name: TimePulse
+    description: 一个具有现代化 UI 和交互的计时器网页应用
+  en:
+    name: TimePulse
+    description: A timer web application with a modern interface and interactions.
